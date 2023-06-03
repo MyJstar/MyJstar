@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rect&text=Hi!MY!)
 
-<img src="https://img.shields.io/badge/HTML-#E34F26?style=flat-square&logo=로고명&logoColor=로고색"/>
+<img src="https://img.shields.io/badge/HTML-#E34F26?style=flat-square&logo=HTML&logoColor=로고색"/>
 
 
 
