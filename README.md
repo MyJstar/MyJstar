@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?color=auto&type=Waving&text=Welcome!)
 
-<img src="https://img.shields.io/badge/HTML-#E34F26?style=flat-square&logo=HTML&logoColor=#E34F26"/>
+
+<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=plastic-the-badge&logo=이미지 이름&logoColor=black">
+<img src="https://img.shields.io/badge/CSS-1572B6?styleplastic-the-badge&logo=이미지 이름&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-the-badge&logo=이미지 이름&logoColor=black">
 
 
 
