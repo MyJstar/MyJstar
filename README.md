@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text= Hi! i'm My1)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&text=Hi!MY!)
+![header](https://capsule-render.vercel.app/api?color=auto&type=Waving&text=Welcome!)
 
-<img src="https://img.shields.io/badge/HTML-#E34F26?style=flat-square&logo=HTML&logoColor=로고색"/>
+<img src="https://img.shields.io/badge/HTML-#E34F26?style=flat-square&logo=HTML&logoColor=#E34F26"/>
 
 
 
